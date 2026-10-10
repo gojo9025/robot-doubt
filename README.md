@@ -2,7 +2,7 @@
 
 A simulated Franka Panda arm that checks its own work. After each pick-and-place attempt, a local 3B vision-language model (Qwen2.5-VL 3B, run through Ollama) looks at a camera frame and judges whether the cube ended up completely inside the green target circle. If it says no, the robot re-observes the cube and retries (up to 3 tries). Everything runs offline on a laptop (RTX 5060, 8 GB).
 
-By YOUR NAME
+By Goushik
 
 ## Results
 
