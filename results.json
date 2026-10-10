@@ -1,0 +1,182 @@
+[
+  {
+    "condition": "normal",
+    "truth": true,
+    "vlm_yes": true,
+    "raw": "YES"
+  },
+  {
+    "condition": "normal",
+    "truth": true,
+    "vlm_yes": true,
+    "raw": "YES"
+  },
+  {
+    "condition": "normal",
+    "truth": true,
+    "vlm_yes": true,
+    "raw": "YES"
+  },
+  {
+    "condition": "normal",
+    "truth": true,
+    "vlm_yes": true,
+    "raw": "YES"
+  },
+  {
+    "condition": "normal",
+    "truth": true,
+    "vlm_yes": true,
+    "raw": "YES"
+  },
+  {
+    "condition": "normal",
+    "truth": true,
+    "vlm_yes": true,
+    "raw": "YES"
+  },
+  {
+    "condition": "normal",
+    "truth": true,
+    "vlm_yes": true,
+    "raw": "YES"
+  },
+  {
+    "condition": "normal",
+    "truth": true,
+    "vlm_yes": true,
+    "raw": "YES"
+  },
+  {
+    "condition": "normal",
+    "truth": true,
+    "vlm_yes": true,
+    "raw": "YES"
+  },
+  {
+    "condition": "normal",
+    "truth": true,
+    "vlm_yes": true,
+    "raw": "YES"
+  },
+  {
+    "condition": "noisy perception",
+    "truth": false,
+    "vlm_yes": false,
+    "raw": "NO"
+  },
+  {
+    "condition": "noisy perception",
+    "truth": true,
+    "vlm_yes": true,
+    "raw": "YES"
+  },
+  {
+    "condition": "noisy perception",
+    "truth": true,
+    "vlm_yes": true,
+    "raw": "YES"
+  },
+  {
+    "condition": "noisy perception",
+    "truth": false,
+    "vlm_yes": false,
+    "raw": "NO"
+  },
+  {
+    "condition": "noisy perception",
+    "truth": true,
+    "vlm_yes": true,
+    "raw": "YES"
+  },
+  {
+    "condition": "noisy perception",
+    "truth": false,
+    "vlm_yes": false,
+    "raw": "NO"
+  },
+  {
+    "condition": "noisy perception",
+    "truth": true,
+    "vlm_yes": true,
+    "raw": "YES"
+  },
+  {
+    "condition": "noisy perception",
+    "truth": true,
+    "vlm_yes": true,
+    "raw": "YES"
+  },
+  {
+    "condition": "noisy perception",
+    "truth": true,
+    "vlm_yes": true,
+    "raw": "YES"
+  },
+  {
+    "condition": "noisy perception",
+    "truth": true,
+    "vlm_yes": true,
+    "raw": "YES"
+  },
+  {
+    "condition": "slippery cube",
+    "truth": false,
+    "vlm_yes": false,
+    "raw": "NO"
+  },
+  {
+    "condition": "slippery cube",
+    "truth": false,
+    "vlm_yes": false,
+    "raw": "NO"
+  },
+  {
+    "condition": "slippery cube",
+    "truth": false,
+    "vlm_yes": false,
+    "raw": "NO"
+  },
+  {
+    "condition": "slippery cube",
+    "truth": false,
+    "vlm_yes": false,
+    "raw": "NO"
+  },
+  {
+    "condition": "slippery cube",
+    "truth": false,
+    "vlm_yes": false,
+    "raw": "NO"
+  },
+  {
+    "condition": "slippery cube",
+    "truth": false,
+    "vlm_yes": false,
+    "raw": "NO"
+  },
+  {
+    "condition": "slippery cube",
+    "truth": false,
+    "vlm_yes": false,
+    "raw": "NO"
+  },
+  {
+    "condition": "slippery cube",
+    "truth": false,
+    "vlm_yes": false,
+    "raw": "NO"
+  },
+  {
+    "condition": "slippery cube",
+    "truth": false,
+    "vlm_yes": false,
+    "raw": "NO"
+  },
+  {
+    "condition": "slippery cube",
+    "truth": false,
+    "vlm_yes": false,
+    "raw": "NO"
+  }
+]

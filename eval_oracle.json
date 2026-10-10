@@ -1,0 +1,1996 @@
+[
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": false,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": false,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": false,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": false,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": false,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": false,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": false,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": false,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": false,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": false,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": false,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": false,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": false,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": false,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 2,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": true,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": true,
+  "final_ok": true,
+  "tries": 1,
+  "verdicts": [
+   [
+    true,
+    true
+   ]
+  ]
+ },
+ {
+  "first_ok": false,
+  "final_ok": false,
+  "tries": 3,
+  "verdicts": [
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ],
+   [
+    false,
+    false
+   ]
+  ]
+ }
+]

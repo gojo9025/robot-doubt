@@ -1,0 +1,10 @@
+..................................................seed 1: first try 58%  ->  final 90%
+..................................................seed 2: first try 66%  ->  final 84%
+..................................................seed 3: first try 66%  ->  final 92%
+
+=== VLM judge | noise 1.5 cm | up to 3 tries | 150 episodes (3 seeds) ===
+Without self-correction: 63.3%   (95% CI 55.4-70.6)
+With self-correction:    88.7%   (95% CI 82.6-92.8)
+Lift: +25.3 points   (95% CI +18.7 to +32.0)   recovered 38, broken 0
+Average tries: 1.56
+Judge: missed 3 of 100 failed attempts; false alarm on 1 of 134 successes

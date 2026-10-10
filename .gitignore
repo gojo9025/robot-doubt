@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+frames/
+vlm_frames/
+mismatch_frames*/
+*.bak
+test_*.py
+patch*.py
+frame.png
+mj.png
