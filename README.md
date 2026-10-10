@@ -6,8 +6,6 @@ A simulated Franka Panda arm that checks its own work. After each pick-and-place
 
 By Goushik
 
-[Watch the demo video](demo.mp4)
-
 ## Results
 
 150 episodes (3 seeds x 50), 1.5 cm simulated perception error on the cube position. Success is measured against the simulator's ground truth, never against the VLM.
