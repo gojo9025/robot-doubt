@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/d2a0497a-c2aa-4c14-a1d8-e2a6afd57b32
+
 # Self-Doubting Robot
 
 A simulated Franka Panda arm that checks its own work. After each pick-and-place attempt, a local 3B vision-language model (Qwen2.5-VL 3B, run through Ollama) looks at a camera frame and judges whether the cube ended up completely inside the green target circle. If it says no, the robot re-observes the cube and retries (up to 3 tries). Everything runs offline on a laptop (RTX 5060, 8 GB).
